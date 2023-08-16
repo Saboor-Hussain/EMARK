@@ -34,15 +34,15 @@ EMARK delivers a host of cutting-edge features to cater to your banking needs:
 
 EMARK leverages an array of programming languages to deliver a robust and user-friendly experience:
 
-- ![HTML5 Logo](html5-logo.png) **HTML5:** The latest evolution of Hypertext Markup Language for structuring web content.
+- **HTML5:** The latest evolution of Hypertext Markup Language for structuring web content.
 
-- ![CSS3 Logo](css3-logo.png) **CSS3:** A versatile style sheet language to enhance the design and layout.
+- **CSS3:** A versatile style sheet language to enhance the design and layout.
 
-- ![JavaScript Logo](javascript-logo.png) **JavaScript:** A powerful scripting language for adding interactivity and dynamic behavior.
+-  **JavaScript:** A powerful scripting language for adding interactivity and dynamic behavior.
 
-- ![JSP Logo](jsp-logo.png) **JSP (JavaServer Pages):** A technology for creating dynamic web content using Java.
+- **JSP (JavaServer Pages):** A technology for creating dynamic web content using Java.
 
-- ![MySQL Logo](mysql-logo.png) **MySQL:** An open-source relational database management system for efficient data storage and retrieval.
+- **MySQL:** An open-source relational database management system for efficient data storage and retrieval.
 
 ## Getting Started
 
