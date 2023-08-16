@@ -1,6 +1,6 @@
 # EMARK - Money Always Ready Kept Safe & Secure
 
-![EMARK Logo](logo.png)
+![EMARK Logo](images/LogoColor.png)
 
 EMARK is an innovative online banking website that empowers users with secure and efficient financial management. With a comprehensive range of features, EMARK offers a seamless banking experience that ensures your money is always ready and kept safe and secure.
 
