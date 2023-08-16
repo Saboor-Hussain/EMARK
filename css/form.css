@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #003939;
+}
+
+img {
+    width: 8%;
+}
+
+h2 {
+    margin-top: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form {
+    display: block;
+    background: rgb(250, 149, 0, 0.8);
+    color: white;
+    border-radius: 5px;
+    width: 450px;
+    text-align: center;
+    box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 100%);
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding: 40px 30px;
+}
+
+form label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    letter-spacing: 2px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+form input {
+    width: 80%;
+    border-radius: 3px;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+    font-size: 15px;
+    font-weight: 100;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid transparent;
+    outline: none;
+    padding: 15px;
+}
+
+form input:invalid{
+    border: 1px solid red;
+}
+
+form input:valid{
+    border: 1px solid transparent;
+}
+
+::placeholder {
+    color: #fff;
+}
+
+
+
+form input[type="submit"] {
+    width: 90%;
+    background-color: #003939;
+    font-size: 14px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    padding: 14px 30px;
+    color: white;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    transition: 0.5s ease;
+}
+
+form input[type="submit"]:hover {
+    background-color: #333;
+    color: white;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: red;
+    margin-top: 20px;
+}
+
+form a {
+    text-decoration: none;
+    color: white;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1px;
+}
+
+form a:hover {
+    text-decoration: underline;
+}

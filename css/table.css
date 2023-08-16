@@ -1,0 +1,79 @@
+table {
+    border: 1px solid #0a1f1f;
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    background-color: #FA9500;
+    color: white;
+    
+}
+
+th {
+    padding: 8px;
+    border: 1px solid #003939;
+    text-align: center;
+    color: white;
+}
+td{
+    border: 1px solid black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+tr {
+    background-color: black;
+    border: 1px solid #003939;
+    text-align: center;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #003939;
+}
+
+.deleteButton{
+    background-image: url('../images/delete_user1.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent ;
+    border: none;
+    width: 30%;
+    height: 40px;
+    cursor: pointer;
+}
+
+.editButton{
+    background-image: url('../images/edit_user1.png'); 
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: transparent ;
+    border: none;
+    width: 30%;
+    height: 40px;
+    cursor: pointer;
+}
+
+
+
+.insertButton {
+    width: 100%;
+    background-color: #0b470d;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    border: 2px solid #FA9500;
+    cursor: pointer;
+    font-size: 14px;
+    transition: 0.3s ease;
+}
+
+button:hover {
+    background-color: #FA9500;
+    border-color: #0b470d;
+}
