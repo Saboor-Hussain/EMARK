@@ -1,7 +1,5 @@
 # EMARK - Money Always Ready Kept Safe & Secure
 
-![EMARK Logo](images/LogoColor.png)
-
 EMARK is an innovative online banking website that empowers users with secure and efficient financial management. With a comprehensive range of features, EMARK offers a seamless banking experience that ensures your money is always ready and kept safe and secure.
 
 ## Table of Contents
@@ -64,10 +62,10 @@ To explore and test EMARK, follow these simple steps:
 
 EMARK is the result of collaborative effort. Meet the dedicated team behind this project:
 
-- Syed Ali Saboor Hussian - Full Stack Web Developer
-- Syed Saad Adil - UI/UX Designer, Front End Developer
-- Abdur Rehman Khan - UI/UX Designer, Front End Developer
-- Shoaib Siddiqui - Dashboard Front End Developer
+- Syed Ali Saboor Hussian (Team Leader) - Full Stack Web Developer
+- Syed Saad Adil (Team Member) - UI/UX Designer, Front End Developer
+- Abdur Rehman Khan (Team Member) - UI/UX Designer, Front End Developer
+- Shoaib Siddiqui (Team Member) - Dashboard Front End Developer
 
 ## License
 
